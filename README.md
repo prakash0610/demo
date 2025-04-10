@@ -50,4 +50,4 @@ Below are the steps for contributing in terraform modules:
 - Enable CloudTrail to capture all compatible events in a region. Please refer following documentation [cloudtrail-user-guide](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html), [cloudtrail-terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudtrail), 
 
 
-##### Required Link: [Required EP](dev-demo-alb-97916946.us-east-1.elb.amazonaws.com)
+##### Required Link: [Required EP](http://dev-demo-alb-97916946.us-east-1.elb.amazonaws.com/)
